@@ -1,12 +1,12 @@
 # AI-Recruitment-Chatbot-GPT-Based
 
-📌 Project Description
+# 📌 Project Description
 
 This project is an AI-powered recruitment chatbot built as a personal learning and self-improvement experiment. The chatbot analyzes candidate resumes and evaluates how suitable they are for a given role.
 
 It supports multiple resume input formats, scores candidates based on their qualifications, and provides a clear suitability assessment.
 
-🚀 Features
+# 🚀 Features
 
 Accepts resumes in Text, PDF, or HTML format
 
@@ -18,7 +18,7 @@ Provides a hiring suitability evaluation (e.g., suitable / partially suitable / 
 
 Modular structure for easy extension and experimentation
 
-🧠 Purpose
+# 🧠 Purpose
 
 This project was developed purely for learning purposes, focusing on:
 
@@ -32,7 +32,7 @@ Practical chatbot design for real-world use cases
 
 It is not intended for production use and does not replace human decision-making in recruitment.
 
-🛠️ How It Works
+# 🛠️ How It Works
 
 The user uploads or inputs a resume (text, PDF, or HTML).
 
@@ -42,7 +42,7 @@ The extracted data is evaluated against predefined criteria or a target job prof
 
 A score and suitability assessment are generated and presented to the user.
 
-📂 Supported Input Formats
+# 📂 Supported Input Formats
 
 .txt
 
@@ -50,7 +50,7 @@ A score and suitability assessment are generated and presented to the user.
 
 .html
 
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 This tool is experimental and created for educational purposes only.
 
@@ -58,21 +58,6 @@ Results may be inaccurate or biased depending on input quality and scoring logic
 
 Always involve human review in real hiring decisions.
 
-📈 Future Improvements (Ideas)
-
-Role-specific scoring customization
-
-Bias detection and mitigation
-
-Multi-language resume support
-
-UI integration (web-based interface)
-
-ATS-compatible output formats
-
-📜 License
-
-This project is open-source and intended for learning and experimentation.
 
 👤 Author
 
